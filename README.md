@@ -39,7 +39,7 @@ Then open:
 
 http://127.0.0.1:8000/
 
-##🌐 Live Demo
+## 🌐 Live Demo
 
 https://birthday-gift-website-snfm.onrender.com/
 
